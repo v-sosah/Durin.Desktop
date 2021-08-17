@@ -3,3 +3,8 @@
 /Users/Global/Projects/DurinMedia/DurinMedia.Common/obj/Debug/DurinMedia.Common.csproj.CoreCompileInputs.cache
 /Users/Global/Projects/DurinMedia/DurinMedia.Common/obj/Debug/DurinMedia.Common.dll
 /Users/Global/Projects/DurinMedia/DurinMedia.Common/obj/Debug/DurinMedia.Common.pdb
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia.Common\bin\Debug\DurinMedia.Common.dll
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia.Common\bin\Debug\DurinMedia.Common.pdb
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia.Common\obj\Debug\DurinMedia.Common.csproj.CoreCompileInputs.cache
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia.Common\obj\Debug\DurinMedia.Common.dll
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia.Common\obj\Debug\DurinMedia.Common.pdb

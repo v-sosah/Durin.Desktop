@@ -12,3 +12,18 @@
 /Users/Global/Projects/DurinMedia/DurinMedia/obj/Debug/DurinMedia.Mac.csproj.CopyComplete
 /Users/Global/Projects/DurinMedia/DurinMedia/obj/Debug/Durin Media.exe
 /Users/Global/Projects/DurinMedia/DurinMedia/obj/Debug/Durin Media.pdb
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\bin\Debug\Durin Media.exe
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\bin\Debug\Durin Media.pdb
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\bin\Debug\DurinMedia.Common.dll.mdb
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\bin\Debug\DurinMedia.Common.dll
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\bin\Debug\DurinMedia.Common.pdb
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\obj\Debug\actool\_PartialAppManifest.items
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\obj\Debug\actool\_BundleResourceWithLogicalName.items
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\obj\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\obj\Debug\coremlc\_PartialAppManifest.items
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\obj\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\obj\Debug\DurinMedia.Mac.csprojAssemblyReference.cache
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\obj\Debug\DurinMedia.Mac.csproj.CoreCompileInputs.cache
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\obj\Debug\DurinMedia.Mac.csproj.CopyComplete
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\obj\Debug\Durin Media.exe
+D:\DurinMacApp\Durin.Desktop\DurinMedia\DurinMedia\obj\Debug\Durin Media.pdb
