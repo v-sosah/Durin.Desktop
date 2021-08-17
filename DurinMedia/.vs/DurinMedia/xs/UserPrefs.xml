@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A27A4977-5420-4D71-9D3B-110E766E3B80}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DurinMedia.Common/MyClass.cs">
+    <Files>
+      <File FileName="DurinMedia/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="DurinMedia/ViewController.designer.cs" Line="25" Column="55" />
+      <File FileName="DurinMedia/ViewController.cs" Line="34" Column="16" />
+      <File FileName="DurinMedia.Common/MyClass.cs" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DurinMedia" expanded="True">
+            <Node name="DurinMedia" expanded="True">
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+            <Node name="DurinMedia.Common" expanded="True">
+              <Node name="MyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DurinMedia.Mac PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
